@@ -1,0 +1,9 @@
+location_id: 329052488|city: Fairfield|User: chelove|Image: https://scontent.cdninstagram.com/hphotos-frc/t51.2885-15/s320x320/e15/10475138_818919314807450_634602356_n.jpg|location_points: 38.2493581;-122.0399663
+	location_id: 329052488|city: Fairfield|User: chelove|Image: https://scontent.cdninstagram.com/hphotos-frc/t51.2885-15/s320x320/e15/10474943_310136352486816_2128127230_n.jpg|location_points: 38.2493581;-122.0399663
+	location_id: 329052488|city: Fairfield|User: chelove|Image: https://scontent.cdninstagram.com/hphotos-xtp1/t51.2885-15/s320x320/e15/10536896_822136114471790_1284665645_n.jpg|location_points: 38.2493581;-122.0399663
+	location_id: 834559220|city: Fairfield|User: adrielangel|Image: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s320x320/e15/11377412_833245026759030_737387628_n.jpg|location_points: 38.2493581;-122.0399663
+	location_id: 834559220|city: Fairfield|User: adrielangel|Image: https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/s320x320/e15/11349161_107727019568428_563419545_n.jpg|location_points: 38.2493581;-122.0399663
+	location_id: 834559220|city: Fairfield|User: adrielangel|Image: https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/s320x320/e15/11351604_442738885897172_2106061722_n.jpg|location_points: 38.2493581;-122.0399663
+	location_id: 370319920|city: Fairfield|User: karenabad|Image: https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/s320x320/e35/11375228_1689827917907052_164908727_n.jpg|location_points: 38.2493581;-122.0399663
+	location_id: 370319920|city: Fairfield|User: karenabad|Image: https://scontent.cdninstagram.com/hphotos-xtp1/t51.2885-15/s320x320/e35/11850065_877016385712077_1757132671_n.jpg|location_points: 38.2493581;-122.0399663
+	location_id: 370319920|city: Fairfield|User: karenabad|Image: https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/s320x320/e35/11848854_148989922103407_148824983_n.jpg|location_points: 38.2493581;-122.0399663
